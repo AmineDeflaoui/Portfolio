@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://aminedeflaoui.github.io/Portfolio/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Amine Deflaoui Portfolio</h3>
