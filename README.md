@@ -12,10 +12,12 @@
   <p align="center">
     Check out My Designs & projects!
     <br />
-    <a href="https://aminedeflaoui.github.io/Portfolio/"><strong>Explore »</strong></a>
+    <a href="https://aminedeflaoui.github.io/Portfolio/"                   target="_blank"
+><strong>Explore »</strong></a>
     <br />
     <br />
-    <a href="https://aminedeflaoui.github.io/Portfolio/">View Live</a>
+    <a href="https://aminedeflaoui.github.io/Portfolio/"                   target="_blank"
+>View Live</a>
     ·
     <a href="https://github.com/AmineDeflaoui/Portfolio/issues">Report Bug</a>
     ·
